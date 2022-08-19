@@ -67,11 +67,13 @@ Email: tscompor&lt;at&gt;gmail.com
 (ご講演なしの)参加登録は当日まで受け付けています / You can still register for the participation (without a talk) from
 -->
 
-9/22(木)までに / Please register by 22th September from<br/>
+幹事あてのメールにてお申し込み下さい. / Please register by an email to the organizers.
 
-<span style="font-size:150%">
-[こちらから/here](https://docs.google.com/)
-</span>
+現地参加の場合, 8月末まで / If you are about to join in-person, please register by the end of August.
+
+オンラインでご講演の場合は, 9/22まで / If you are giving an online talk, please register by 22th September<br/>
+
+ご講演なしのオンライン参加については, 当日まで受け付けます. / If you join online to just watch the talks, there is no deadline.
 
 ## プログラム / Technical Program
 
@@ -102,11 +104,11 @@ Each talk slot includes the time for discussion and break.
 - <author> [<software>](<url>
 -->
 
-解答は才川宛(tscompor&lt;at&gt;gmail.com)にお送り下さい. / Please send your answer to Saikawa (tscompor&lt;at&gt;gmail.com).
+解答は幹事あてにお送り下さい. / Please send your answer to the organizers.
 
-<!---
 ### 問題 / Problem
--->
+
+後日掲載します. / The problem will be uploaded later.
 
 
 ## これまでのTPP / Past TPPs
