@@ -31,8 +31,6 @@ We hope all participants would consider giving a talk.
 
 ## 会場 / Venue
 
-**<a style="font-size: 32px; color:red" href="map/map.html">Route to the rooms</a>**
-
 禅の里・笑来 / Zen no sato Mirai
 
 発表・質疑応答等はオンラインでも参加可能にする予定です.
