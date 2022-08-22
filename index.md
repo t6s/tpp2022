@@ -37,17 +37,23 @@ We hope all participants would consider giving a talk.
 
 The talks and discussions will also be available online.
 
+## 参加費 / Fee
+
+禅の里での参加費は, 2泊で, 食事込み30000円程度となる見込みです
+（参加者数によって変動します）
+/
+A stay for 2 nights including meals at Zen no sato will cost about 30000 yen,
+(subject to changes depending on the number of participants)
+
+オンライン参加の参加費は不要です / No fee for online participations.
+
 ## 住所 / Address
 
 〒910-1222 福井県吉田郡永平寺町諏訪間4-11 / 4-11 Suwama Eiheiji, Yoshida District, Fukui
 
 [アクセス](https://e-machidukuri.co.jp/mirai/map/) / [Access](https://e-machidukuri.co.jp/mirai/map/)
 
-<!--
-## 懇親会 / Dinner Party
--->
-
-## 幹事 / Organizer
+## 幹事 / Organizers
 
 小川瑞史 (JAIST) /
 Mizuhito Ogawa (JAIST),
@@ -61,13 +67,22 @@ Email: tscompor&lt;at&gt;gmail.com
 
 ## 参加申し込み / Registration
 
-幹事あてのメールにてお申し込み下さい. / Please register by an email to the organizers.
+現地参加をご希望の場合, まずは9月5日までに幹事あてのメールにてご一報下さい. 
+/
+If you will join in-person, please quickly notify about that by an email to the organizers by 5th September
 
-現地参加の場合, 9月5日まで / If you are about to join in-person, please register by 5th September.
+参加および講演のご登録は, 9月22日までに以下のフォームにてお願い致します
+/
+Please register your participation and presentation using the form below by 22nd September.
 
-オンラインでご講演の場合は, 9月22日まで / If you are giving an online talk, please register by 22th September<br/>
+9月22日以降のお申し込みについては, 幹事あてにメールでご連絡下さい. 
+/
+For registration after 22nd Septermber, please contact the organizers by an email.
 
-ご講演なしのオンライン参加については, 当日まで受け付けます. / If you join online to just watch the talks, there is no deadline.
+<span style="font-size:150%">
+[申し込みフォーム / Registration form](https://docs.google.com/forms/d/e/1FAIpQLSdyVoB5RwW91DKXKn5cWyJxudX-3Mj7PwNm6V9niGVkRA6feQ/viewform)
+</span>
+
 
 ## プログラム / Technical Program
 
