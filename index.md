@@ -60,16 +60,12 @@ Takafumi Saikawa (Nagoya University),
 Email: tscompor&lt;at&gt;gmail.com
 
 ## 参加申し込み / Registration
-<!---
-~~9/22(木)までに / Please register by 22th September from~~<br/>
-(ご講演なしの)参加登録は当日まで受け付けています / You can still register for the participation (without a talk) from
--->
 
 幹事あてのメールにてお申し込み下さい. / Please register by an email to the organizers.
 
-現地参加の場合, 8月末まで / If you are about to join in-person, please register by the end of August.
+現地参加の場合, 9月5日まで / If you are about to join in-person, please register by 5th September.
 
-オンラインでご講演の場合は, 9/22まで / If you are giving an online talk, please register by 22th September<br/>
+オンラインでご講演の場合は, 9月22日まで / If you are giving an online talk, please register by 22th September<br/>
 
 ご講演なしのオンライン参加については, 当日まで受け付けます. / If you join online to just watch the talks, there is no deadline.
 
